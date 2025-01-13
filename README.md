@@ -1,26 +1,26 @@
-#  LLM Agents Course
+<div align="center">
+  <h1>🗣️ LLM Agents Course 🤖</h1>
+</h1>
+  <p align="center">
+    💼 <a href="https://linkedin.com/in/peyman-kor">Follow me on Linkedin </a> 
+  </p>
+</div>
+<br/>
 
-🐦 [Follow me on X](https://x.com/peyman_kor)  
-💻 [Blog](https://peymankor.com/blog/)  
-💼 [LinkedIn](https://linkedin.com/in/peyman-kor)
-
---
-
-A Course to get into Large Language Models (LLM) Agents with roadmaps and Colab notebooks.
+A Course to get into Large Language Models (LLM) Agents with roadmap and python notebooks.
 
 ---
 
 ## Table of Contents
 
 
-- [LLM Agents Course](#llm-agents-course)
-  - [Table of Contents](#table-of-contents)
-  - [Theoretical Frameworks](#theoretical-frameworks)
-    - [📚 References](#-references)
-  - [Hands-on Coding](#hands-on-coding)
-    - [📚 Notebooks \& Projects](#-notebooks--projects)
-  - [Python Frameworks](#python-frameworks)
-  - [Acknowledgements](#acknowledgements)
+- [Table of Contents](#table-of-contents)
+- [Theoretical Frameworks](#theoretical-frameworks)
+  - [📚 References](#-references)
+- [Hands-on Coding](#hands-on-coding)
+  - [📚 Notebooks \& Projects](#-notebooks--projects)
+- [Python Frameworks](#python-frameworks)
+- [Acknowledgements](#acknowledgements)
 
 ---
 
