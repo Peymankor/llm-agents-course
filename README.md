@@ -20,6 +20,7 @@ A Course to get into Large Language Models (LLM) Agents with roadmap and python 
 - [Hands-on Coding](#hands-on-coding)
   - [📚 Notebooks \& Projects](#-notebooks--projects)
 - [Python Frameworks](#python-frameworks)
+- [Online Video Courses (Free)](#online-video-courses-free)
 - [Acknowledgements](#acknowledgements)
 
 ---
@@ -68,6 +69,15 @@ These are the most important hands-on coding projects that I have seen LLMs Agen
 These are the established Python Frameworks for LLMs Agents.
 - **[Langchain](https://www.langchain.com/)**
 - **[smolagents](https://github.com/huggingface/smolagents)** 🤗
+
+---
+
+## Online Video Courses (Free)
+
+- **[Introduction to LangGraph](https://academy.langchain.com/courses/intro-to-langgraph)**
+  - 54 lessons , 6 hours of video content
+- **[Agentic Pattern Series](https://www.youtube.com/watch?v=0sAVI8bQdRc&list=PLacQJwuclt_sK_pUPzBpfeWyiL1QOSMRQ&index=4)** (by [The Neural Maze](https://neural-maze.github.io/blog/about/) @neural-maze)
+    - 4 lessons , around 2 hours of video content
 
 ---
 
